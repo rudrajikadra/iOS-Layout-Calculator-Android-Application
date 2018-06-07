@@ -2,7 +2,6 @@
 
 An Android App developed on Android Studio which is a simple calculator for standard Addition, Subtraction, Multiplication, Division, Percentage and stuff.
 The UI of the calculator is the same as UI if iOS calculator app.
-Language used to code is Kotlin.
 
 ## Language
 It is created using android studio and the language used is Kotlin.
